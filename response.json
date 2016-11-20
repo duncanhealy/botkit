@@ -1,12 +1,12 @@
  { ' Hi {PT}, how are you feeling this week?' },{ ' Not too well' }
- { ' That's okay. For how long have you felt this way?' },{ ' I've been feeling low since Monday. I haven't left the house.' }
+ { ' Thats okay. For how long have you felt this way?' },{ ' I've been feeling low since Monday. I havent left the house.' }
  { ' Are you feeling tired or stressed? Or are you just waiting this feeling out?' },{ ' I'm pretty tired. I haven't been sleeping well.' }
  { ' Has anything changed in your medication since the last time you met Dr. O'Kelly?' },{ ' No' }
- { ' That's fine. And your diet? You are still eating well, yes?' },{ ' no, I've lost my appetite ' }
+ { ' That's fine. And your diet? You are still eating well, yes?' },{ ' no, Ive lost my appetite ' }
  { ' Any relationship issues with friends or family recently? ' },{ ' No.' }
  { ' Or did anything happen at work?' },{ ' I'm under a lot of pressure at work. Haven't had any time to see my family.' }
  { ' Have you spoken to anyone about it?' },{ ' No' }
  { ' Would you like me to notify {DR} and arrange a phone call?' },{ ' Yes please' }
- { ' he is free to call: 086 1231231' },{ ' Thanks' },{ ' he didn't answer...' }
+ { ' he is free to call: 086 1231231' },{ ' Thanks' \n  he didnt answer...' }
  { ' that's unfortunate. Would you like to speak to {Nurse}.' },{ ' Okay' }
  { ' nurse Smith is free to call: 0873213213 '}', {'thanks.'}'
